@@ -16,7 +16,7 @@
 
 💬 Ask me about **React, TypeScript, Tailwind... or anything [here](https://github.com/EadonAuston/EadonAuston/issues)**
 
-⚡ Fun fact **I'm only 19 years old!**
+⚡ Fun fact **I'm only 20 years old!**
 
  </div>
  
